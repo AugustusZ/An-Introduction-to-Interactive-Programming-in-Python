@@ -9,8 +9,13 @@ on Coursera.
 
 ## Mini-projects
 
+For each mini-project, 
+
+- click "open" to open the source file
+- click "run" to run the script on [CodeSkulptor](http://www.codeskulptor.org/).
+
 | # | Mini-project | Source File | Run Script |
-| --- | --- | --- | --- |
+| --- | --- |:---:|:---:|
 | 1 | Rock-paper-scissors-lizard-Spock | [open](Mini-project-1_Rock-paper-scissors-lizard-Spock.py) | [run](http://www.codeskulptor.org/#user38_6OLLFj9Cpu_0.py) |
 | 2 | Guess the number | [open](Mini-project-2_Guess-the-number.py) | [run](http://www.codeskulptor.org/#user38_QVmNcrNChD_10.py) |
 | 3 | Stopwatch | [open](Mini-project-3_Stopwatch.py) | [run](http://www.codeskulptor.org/#user38_JCllWstV5X_13.py) |
